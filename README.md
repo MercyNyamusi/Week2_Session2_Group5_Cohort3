@@ -1,8 +1,1 @@
-# static-portfolio-website-MercyNyamusi
-# alx-onboarding
-# alx-zero_day
-# alx-zero_day
-# alx-system_engineering-devops
-# c_programming
-# C-Programming
-# C-LowLevelProgramming
+# Week2_Session2_Group5_Cohort3
